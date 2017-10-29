@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shooting Gallery", "Shooting Gallery.csproj", "{49B50F9F-A986-4FA0-22E8-5D1AB30A6F4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shooting Gallery.Editor", "Shooting Gallery.Editor.csproj", "{3A142D1A-E8D4-1C91-5A5E-F1C9678732DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49B50F9F-A986-4FA0-22E8-5D1AB30A6F4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49B50F9F-A986-4FA0-22E8-5D1AB30A6F4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49B50F9F-A986-4FA0-22E8-5D1AB30A6F4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49B50F9F-A986-4FA0-22E8-5D1AB30A6F4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A142D1A-E8D4-1C91-5A5E-F1C9678732DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A142D1A-E8D4-1C91-5A5E-F1C9678732DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A142D1A-E8D4-1C91-5A5E-F1C9678732DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A142D1A-E8D4-1C91-5A5E-F1C9678732DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
